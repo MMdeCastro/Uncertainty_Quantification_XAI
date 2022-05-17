@@ -12,7 +12,7 @@ Esta charla/taller complementa a la mayoría de los cursos introductorios sobre 
 
 ## Instrucciones
 
-1. Si no tienes el administrador de paquetes `conda` instalado, puedes simplemente instalar 'miniconda' siguiendo las instrucciones para tu sistema operativo [aquí](https://docs.conda.io/en/latest/miniconda.html). Después, abre una terminal (de Bash si estás en Linux o Mac, Anaconda prompt si estás en Windows) y escribe:
+1. Si no tienes el administrador de paquetes `conda` instalado, puedes simplemente instalar `miniconda` siguiendo las instrucciones para tu sistema operativo [aquí](https://docs.conda.io/en/latest/miniconda.html). Después, abre una terminal (de Bash si estás en Linux o Mac, Anaconda prompt si estás en Windows) y escribe:
 
 + `conda env create -f environment.yml`
 
