@@ -1,6 +1,6 @@
 # Exactitud con certidumbre
 
-Charla/taller para la [PyConES22](https://2022.es.pycon.org/)
+Propuesta de charla/taller para la [PyConES22](https://2022.es.pycon.org/)
 
 Medir la calidad de las conclusiones de un modelo a través de métricas como accuracy (exactitud), precision, recall,... no nos da la seguridad de que el modelo esté respondiendo a la pregunta correcta, sobre todo si es un modelo no interpretable por las personas, también llamados modelos black box (caja negra). 
 
