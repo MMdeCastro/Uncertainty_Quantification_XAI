@@ -10,7 +10,7 @@ Podemos cerciorarnos de que esto no nos pasa incorporando a nuestro modelo herra
 
 Esta charla/taller complementa a la mayoría de los cursos introductorios sobre aprendizaje automático supervisado, que a menudo se centran solamente en optimizar métricas.
 
-##Instrucciones
+## Instrucciones
 
 1. Si no tienes el administrador de paquetes `conda` instalado, puedes simplemente instalar 'miniconda' siguiendo las instrucciones para tu sistema operativo [aquí](https://docs.conda.io/en/latest/miniconda.html). Después, abre una terminal (de Bash si estás en Linux o Mac, Anaconda prompt si estás en Windows) y escribe:
 
