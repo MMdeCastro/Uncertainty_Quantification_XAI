@@ -1,3 +1,6 @@
+
+[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/Exploration_and_Classification.ipynb)
+
 # Exactitud con certidumbre
 
 Propuesta de charla/taller para la [PyConES22](https://2022.es.pycon.org/)
