@@ -15,5 +15,7 @@ dependencies:
 - python-graphviz==0.19.1
 - xgboost=1.4.2
 - emoji=1.6.1
+- eli5=0.13.0
+- pdpbox=0.2.1
 
 
