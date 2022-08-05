@@ -14,6 +14,7 @@ dependencies:
 - seaborn=0.11.2
 - python-graphviz==0.19.1
 - xgboost=1.4.2
+- shap=0.41.0
 - emoji=1.6.1
 
 
