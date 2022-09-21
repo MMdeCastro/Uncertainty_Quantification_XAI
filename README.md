@@ -9,7 +9,7 @@ Medir la calidad de las predicciones de un modelo de aprendizaje supervisado a t
 
 Un ejemplo típico son los grandes modelos de deep learning fallando al intentar identificar una vaca en la playa. Esto sucede frecuentemente porque lo que en realidad aprendió el modelo durante su entrenamiento fue a reconocer la hierba en las imágenes del training set. Son modelos muy exactos (puede que hasta obtengamos más de un 95% de *accuracy* en su validación y testado), pero en una tarea distinta, no deseada (queríamos detectar vacas, no hierba). Si solamente nos fijamos en las métricas, este inesperado cambio de tarea puede pasar fácilmente desapercibido y aumentar el tamaño del training set no necesariamente soluciona el problema.
 
-Podemos cerciorarnos de que esto no nos pasa incorporando a nuestro modelo herramientas matemáticas (ya desarrolladas como librerías de Python) que nos facilitan ir más allá de la optimización de las métricas. Estas herramientas sirven para cualquier modelo supervisado y proveen de intervalos de confianza a las predicciones puntuales (utilizando Conformal Predictors, Quantile Regression, Ensemble Learning,..) o explican en qué se fijó el modelo para producir sus predicciones (gracias a los SHAP values, LIME,...).
+Podemos cerciorarnos de que esto no nos pasa incorporando a nuestro modelo herramientas matemáticas (ya desarrolladas como librerías de Python) que nos facilitan ir más allá de la optimización de las métricas. Estas herramientas sirven para cualquier modelo supervisado y explican en qué se fijó el modelo para producir sus predicciones (gracias a métodos de explicabilidad o [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) como los SHAP values, LIME,...) o proveen de intervalos de confianza a las predicciones puntuales (utilizando métodos de cuantificación de incertidumbre o [UQ](https://en.wikipedia.org/wiki/Uncertainty_quantification) como los Conformal Predictors, Quantile Regression, Ensemble Learning,..).
 
 Este taller complementa a la mayoría de los cursos introductorios sobre aprendizaje automático supervisado, que a menudo se centran solamente en optimizar métricas. Si no has realizado un curso introductorio sobre aprendizaje automático, encontraras un resumen en el Jupyter Notebook llamado `Exploration_and_Classification.ipynb`.
 
@@ -23,7 +23,7 @@ Este taller complementa a la mayoría de los cursos introductorios sobre aprendi
 
 2. Activa el entorno escribiendo en la terminal:
 
-+ `conda activate pycones22`
++ `conda activate pycones22_UQ_XAI`
 
   La primera vez tardará bastante, dependiendo de tu ancho de banda, puede que hasta una hora, porfa, tráelo ya hecho cuando vengas al taller. Cuando acabes con este proyecto, desactiva el entorno escribiendo en la terminal:
 
@@ -34,5 +34,11 @@ Este taller complementa a la mayoría de los cursos introductorios sobre aprendi
 + `jupyter notebook`
 
 4. Jupyter se abrirá en tu browser. En la barra de herramientas, pincha en 'Nbextensions' y permite 'Collapsible Headings' para mejorar la navegación, es un Jupyter Notebook un poco largo! Abre el Jupyter Notebook clicando en un fichero con extensión .ipynb y sigue las instrucciones escritas all. Aconsejamos empezar por `Exploration_and_Classification.ipynb`.
+
+De hecho el analisis completo incluye los siguientes 3 notebooks, en este orden:
+
++ `Exploration_and_Classification.ipynb` donde exploramos y preparamos los datos, probamos varios modelos de aprendizaje automático para clasificación, explicamos las métricas de rendimiento, y elegimos el modelo que nos da mejor rendimiento (este Jupyter notebook se da por entendido y no se tratará en el taller de la PyConES22),
++ `XAI.ipynb` donde aplicamos varios métodos de explicabilidad [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence), y
++ `UQ.ipynb` donde aplicamos varios métodos de cuantificación de incertidumbre [UQ](https://en.wikipedia.org/wiki/Uncertainty_quantification).
 
 
