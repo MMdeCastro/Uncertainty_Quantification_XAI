@@ -11,7 +11,7 @@ Un ejemplo típico son los grandes modelos de deep learning fallando al intentar
 
 Podemos cerciorarnos de que esto no nos pasa incorporando a nuestro modelo herramientas matemáticas (ya desarrolladas como librerías de Python) que nos facilitan ir más allá de la optimización de las métricas. Estas herramientas sirven para cualquier modelo supervisado y explican en qué se fijó el modelo para producir sus predicciones (gracias a métodos de explicabilidad o [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence), como los SHAP values, LIME,...) o proveen de intervalos de confianza a las predicciones puntuales (utilizando métodos de cuantificación de incertidumbre o [UQ](https://en.wikipedia.org/wiki/Uncertainty_quantification), como los Conformal Predictors, la Quantile Regression,..).
 
-Este taller complementa a la mayoría de los cursos introductorios sobre aprendizaje automático supervisado, que a menudo se centran solamente en optimizar métricas. Si no has realizado un curso introductorio sobre aprendizaje automático, encontraras un resumen en el Jupyter Notebook llamado `Exploration_and_Classification.ipynb`.
+Este taller complementa a la mayoría de los cursos introductorios sobre aprendizaje automático supervisado, que a menudo se centran solamente en optimizar métricas. Si no has realizado un curso introductorio sobre aprendizaje automático, encontrarás un resumen en el Jupyter Notebook llamado `Exploration_and_Classification.ipynb`.
 
 ## Instrucciones
 
@@ -35,9 +35,9 @@ Este taller complementa a la mayoría de los cursos introductorios sobre aprendi
 
 4. Jupyter se abrirá en tu browser. En la barra de herramientas, pincha en 'Nbextensions' y permite 'Collapsible Headings' para mejorar la navegación, es un Jupyter Notebook un poco largo! Abre el Jupyter Notebook clicando en un fichero con extensión .ipynb y sigue las instrucciones escritas all. Aconsejamos empezar por `Exploration_and_Classification.ipynb`.
 
-De hecho el analisis completo incluye los siguientes 3 notebooks, en este orden:
+De hecho el análisis completo incluye los siguientes 3 notebooks, en este orden:
 
-+ `Exploration_and_Classification.ipynb` donde exploramos y preparamos los datos, probamos varios modelos de aprendizaje automático para clasificación, explicamos las métricas de rendimiento, y elegimos el modelo que nos da mejor rendimiento (este Jupyter notebook se da por entendido y no se tratará en el taller de la PyConES22),
++ `Exploration_and_Classification.ipynb` donde exploramos y preparamos los datos, probamos varios modelos de aprendizaje automático supervisado para clasificación, explicamos las métricas de rendimiento, y elegimos el modelo que nos da mejor rendimiento (este Jupyter notebook se da por entendido y no se tratará en el taller de la PyConES22),
 + `XAI.ipynb` donde aplicamos varios métodos de explicabilidad [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence), y
 + `UQ.ipynb` donde aplicamos varios métodos de cuantificación de incertidumbre [UQ](https://en.wikipedia.org/wiki/Uncertainty_quantification).
 
