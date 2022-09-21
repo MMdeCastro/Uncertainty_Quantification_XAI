@@ -15,6 +15,7 @@ dependencies:
 - python-graphviz==0.19.1
 - xgboost=1.4.2
 - shap=0.41.0
+- lime == 0.2.0.1
 - dice-ml=0.8 
 - emoji=1.6.1
 
