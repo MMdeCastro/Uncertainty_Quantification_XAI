@@ -18,8 +18,8 @@ Este taller complementa a la mayoría de los cursos introductorios sobre aprendi
 El análisis completo es una serie de 3 Jupyter Notebooks, en este orden:
 
 + `Exploration_and_Classification.ipynb` donde exploramos y preparamos los datos, probamos varios modelos de aprendizaje automático supervisado para clasificación, explicamos las métricas de rendimiento, y elegimos el modelo que nos da mejor rendimiento (en el taller de la PyConES este Jupyter Notebook se da por entendido),
-+ `XAI.ipynb` donde aplicamos varios métodos de explicabilidad [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) (en el taller de la PyConES22 comenzamos por este Jupyter Notebook), y
-+ `UQ.ipynb` donde aplicamos varios métodos de cuantificación de incertidumbre [UQ](https://en.wikipedia.org/wiki/Uncertainty_quantification) (en el taller de la PyConES22 terminaremos con este Jupyter Notebook).
++ `XAI.ipynb` donde aplicamos varios métodos de explicabilidad o [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) (en el taller de la PyConES22 comenzamos por este Jupyter Notebook), y
++ `UQ.ipynb` donde aplicamos varios métodos de cuantificación de incertidumbre o [UQ](https://en.wikipedia.org/wiki/Uncertainty_quantification) (en el taller de la PyConES22 terminaremos con este Jupyter Notebook).
 
 Como decíamos, ésta es una serie introductoria y no incluimos explicaciones exhaustivas y demostraciones matemáticas (hay muchas otras fuentes, ver la lista de materiales en la intro de los Jupyter Notebooks), mejor mencionaremos algunas características intuitivas sobre la explicabiliad y la cuantificación de la incertidumbre y nos enfocaremos en su implementación en Scikit-learn.
 
@@ -46,11 +46,5 @@ Como decíamos, ésta es una serie introductoria y no incluimos explicaciones ex
 + `jupyter notebook`
 
 4. Jupyter se abrirá en tu browser. En la barra de herramientas, pincha en 'Nbextensions' y permite 'Collapsible Headings' para mejorar la navegación, son Jupyter Notebooks fáciles pero un poco largos! Abre el Jupyter Notebook clicando en un fichero con extensión .ipynb y sigue las instrucciones escritas allí. Aconsejamos empezar por `Exploration_and_Classification.ipynb`. En el taller de la PyConES22 damos este Jupyter Notebook por sabido y empezamos directamente con `XAI.ipynb`.
-
-De hecho el análisis completo incluye los siguientes 3 notebooks, en este orden:
-
-+ `Exploration_and_Classification.ipynb` donde exploramos y preparamos los datos, probamos varios modelos de aprendizaje automático supervisado para clasificación, explicamos las métricas de rendimiento, y elegimos el modelo que nos da mejor rendimiento (este Jupyter notebook se da por entendido y no se tratará en el taller de la PyConES22),
-+ `XAI.ipynb` donde aplicamos varios métodos de explicabilidad o [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence), y
-+ `UQ.ipynb` donde aplicamos varios métodos de cuantificación de incertidumbre o [UQ](https://en.wikipedia.org/wiki/Uncertainty_quantification).
 
 
