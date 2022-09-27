@@ -23,7 +23,7 @@ El análisis completo es una serie de 3 Jupyter Notebooks, en este orden:
 
 Como decíamos, ésta es una serie introductoria y no incluimos explicaciones exhaustivas y demostraciones matemáticas (hay muchas otras fuentes, ver la lista de materiales en la intro de los Jupyter Notebooks), mejor mencionaremos algunas características intuitivas sobre la explicabiliad y la cuantificación de la incertidumbre y nos enfocaremos en su implementación en Scikit-learn.
 
-<font size="5"> 👍🤓 </font>
+<font size="10"> 👍🤓 </font>
 
 ## Instrucciones
 
