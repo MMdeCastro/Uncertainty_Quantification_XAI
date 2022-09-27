@@ -50,7 +50,7 @@ Como decíamos, ésta es una serie introductoria y no incluimos explicaciones ex
 De hecho el análisis completo incluye los siguientes 3 notebooks, en este orden:
 
 + `Exploration_and_Classification.ipynb` donde exploramos y preparamos los datos, probamos varios modelos de aprendizaje automático supervisado para clasificación, explicamos las métricas de rendimiento, y elegimos el modelo que nos da mejor rendimiento (este Jupyter notebook se da por entendido y no se tratará en el taller de la PyConES22),
-+ `XAI.ipynb` donde aplicamos varios métodos de explicabilidad [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence), y
-+ `UQ.ipynb` donde aplicamos varios métodos de cuantificación de incertidumbre [UQ](https://en.wikipedia.org/wiki/Uncertainty_quantification).
++ `XAI.ipynb` donde aplicamos varios métodos de explicabilidad o [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence), y
++ `UQ.ipynb` donde aplicamos varios métodos de cuantificación de incertidumbre o [UQ](https://en.wikipedia.org/wiki/Uncertainty_quantification).
 
 
