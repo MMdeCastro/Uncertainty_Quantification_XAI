@@ -15,11 +15,15 @@ Podemos cerciorarnos de que esto no nos pasa incorporando a nuestro modelo herra
 
 Este taller complementa a la mayoría de los cursos introductorios sobre aprendizaje automático supervisado, que a menudo se centran solamente en optimizar métricas. Si no has realizado un curso introductorio sobre aprendizaje automático, encontrarás un resumen en el Jupyter Notebook llamado `Exploration_and_Classification.ipynb`.
 
-El análisis completo incluye los siguientes 3 Jupyter Notebooks, en este orden:
+El análisis completo es una serie de 3 Jupyter Notebooks, en este orden:
 
 + `Exploration_and_Classification.ipynb` donde exploramos y preparamos los datos, probamos varios modelos de aprendizaje automático supervisado para clasificación, explicamos las métricas de rendimiento, y elegimos el modelo que nos da mejor rendimiento (en el taller de la PyConES este Jupyter Notebook se da por entendido),
-+ `XAI.ipynb` donde aplicamos varios métodos de explicabilidad [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) (en el taller de la PyConES comenzamos por este Jupyter Notebook), y
-+ `UQ.ipynb` donde aplicamos varios métodos de cuantificación de incertidumbre [UQ](https://en.wikipedia.org/wiki/Uncertainty_quantification) (en el taller de la PyConES terminaremos con este Jupyter Notebook).
++ `XAI.ipynb` donde aplicamos varios métodos de explicabilidad [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) (en el taller de la PyConES22 comenzamos por este Jupyter Notebook), y
++ `UQ.ipynb` donde aplicamos varios métodos de cuantificación de incertidumbre [UQ](https://en.wikipedia.org/wiki/Uncertainty_quantification) (en el taller de la PyConES22 terminaremos con este Jupyter Notebook).
+
+Como decíamos, ésta es una serie introductoria y no incluimos explicaciones exhaustivas y demostraciones matemáticas (hay muchas otras fuentes, ver la lista de materiales en la intro de los Jupyter Notebooks), mejor mencionaremos algunas características intuitivas sobre la explicabiliad y la cuantificación de la incertidumbre y nos enfocaremos en su implementación en Scikit-learn.
+
+<font size="5"> 👍🤓 </font>
 
 ## Instrucciones
 
