@@ -9,6 +9,9 @@
 
 _Taller para la [PyConES22](https://2022.es.pycon.org/) viernes 30 de Septiembre de 2022 de 15:30h a 17:30h._
 
+<font size="10"> 📝 </font>Todas las charlas de la PyConES 2022 que se mencionan en las referencias de este repositorio pueden encontrarse en [la lista de reprodución del canal de youtube de Python Espana](https://www.youtube.com/@PythonES). 
+
+
 Medir la calidad de las predicciones de un modelo de aprendizaje supervisado a través de métricas de rendimiento como *accuracy* (o "exactitud" en castellano), *precision*, *recall*, *F1 score*,... no nos da la seguridad de que el modelo esté respondiendo a la pregunta correcta, sobre todo si es un modelo no interpretable por las personas, también llamados modelos 'black box' o caja negra. 
 
 Un ejemplo típico son los grandes modelos de deep learning fallando al intentar identificar una vaca en la playa. Esto sucede frecuentemente porque lo que en realidad aprendió el modelo durante su entrenamiento fue a reconocer la hierba en las imágenes del training set. Son modelos muy exactos (puede que hasta obtengamos más de un 95% de *accuracy* en su validación y testado), pero en una tarea distinta, no deseada (queríamos detectar vacas, no hierba). Si solamente nos fijamos en las métricas, este inesperado cambio de tarea puede pasar fácilmente desapercibido y aumentar el tamaño del training set no necesariamente soluciona el problema.
