@@ -43,7 +43,7 @@ Como decíamos, ésta es una serie introductoria y no incluimos explicaciones ex
 
 + `conda deactivate`
 
-3. Abre la aplicación para editar y ejecutar el código en Jupyter Notebooks:
+3. Con el entorno activo, abre la aplicación para editar y ejecutar el código en Jupyter Notebooks escribiendo en la terminal:
 
 + `jupyter notebook`
 
