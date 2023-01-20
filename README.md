@@ -17,7 +17,7 @@ Este taller complementa a la mayoría de los cursos introductorios sobre aprendi
 
 El análisis completo es una serie de 3 Jupyter Notebooks, en este orden:
 
-+ `Exploration_and_Classification.ipynb` donde exploramos y preparamos los datos, probamos varios modelos de aprendizaje automático supervisado para clasificación, explicamos las métricas de rendimiento, y elegimos el modelo que nos da mejor rendimiento,
++ `Exploration_and_Classification.ipynb` donde exploramos y preparamos los datos, probamos varios modelos de aprendizaje automático supervisado para clasificación, explicamos las métricas de rendimiento y el umbral de decisión, y elegimos el modelo que nos da mejor rendimiento,
 + `XAI.ipynb` donde aplicamos varios métodos de explicabilidad o [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence), y
 + `UQ.ipynb` donde aplicamos varios métodos de cuantificación de incertidumbre o [UQ](https://en.wikipedia.org/wiki/Uncertainty_quantification).
 
@@ -25,7 +25,7 @@ Como decíamos, ésta es una serie introductoria y no incluimos explicaciones ex
 
 <font size="10"> 👍🤓 </font>
 
-<font size="10"> 📝 </font>Este taller se impartió por primera vez en la [PyConES22](https://2022.es.pycon.org/) viernes 30 de Septiembre de 2022 de 15:30h a 17:30h. Todas las charlas de la PyConES 2022 que se mencionan como material complementario en los Jupyter Notebooks pueden encontrarse en [la lista de reprodución del canal de youtube de Python Espana](https://www.youtube.com/@PythonES). 
+<font size="10"> 📝 </font>Este taller se realizó por primera vez en la [PyConES22](https://2022.es.pycon.org/) viernes 30 de Septiembre de 2022 de 15:30h a 17:30h. Todas las charlas de la PyConES 2022 que se mencionan como material complementario en los Jupyter Notebooks pueden encontrarse en [la lista de reprodución del canal de youtube de Python Espana](https://www.youtube.com/@PythonES). 
 
 ## Instrucciones
 
