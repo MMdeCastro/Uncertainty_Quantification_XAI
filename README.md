@@ -13,7 +13,7 @@ Un ejemplo típico son los grandes modelos de deep learning fallando al intentar
 
 Podemos cerciorarnos de que esto no nos pasa incorporando a nuestro modelo herramientas matemáticas (ya desarrolladas como librerías de Python) que nos facilitan ir más allá de la optimización de las métricas. Estas herramientas sirven para cualquier modelo supervisado y explican en qué se fijó el modelo para producir sus predicciones (gracias a métodos de explicabilidad o [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence), como los SHAP values, LIME,...) o proveen de 'barras de error' a las predicciones puntuales (utilizando métodos de cuantificación de incertidumbre o [UQ](https://en.wikipedia.org/wiki/Uncertainty_quantification), como los Conformal Predictors, la Quantile Regression,..).
 
-Este taller complementa a la mayoría de los cursos introductorios sobre aprendizaje automático supervisado, que a menudo se centran solamente en optimizar métricas. Si no has realizado un curso introductorio sobre aprendizaje automático, encontrarás un resumen en el Jupyter Notebook llamado `Exploration_and_Classification.ipynb`.
+Este taller complementa a la mayoría de los cursos introductorios sobre aprendizaje automático supervisado, que a menudo se centran solamente en optimizar métricas. Si no has realizado un curso introductorio sobre aprendizaje automático supervisado, encontrarás un resumen en el Jupyter Notebook llamado `Exploration_and_Classification.ipynb`.
 
 El análisis completo es una serie de 3 Jupyter Notebooks, en este orden:
 
