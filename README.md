@@ -47,6 +47,6 @@ Como decíamos, ésta es una serie introductoria y no incluimos explicaciones ex
 
 + `jupyter notebook`
 
-4. Jupyter se abrirá en tu browser. En la barra de herramientas, pincha en 'Nbextensions' y permite 'Collapsible Headings' para mejorar la navegación, son Jupyter Notebooks fáciles pero un poco largos! Abre el Jupyter Notebook clicando en un fichero con extensión .ipynb y sigue las instrucciones escritas allí. Aconsejamos empezar por `Exploration_and_Classification.ipynb`. En el taller de la PyConES22 damos este Jupyter Notebook por sabido y empezamos directamente con `XAI.ipynb`.
+4. Jupyter se abrirá en tu browser. En la barra de herramientas, pincha en 'Nbextensions' y permite 'Collapsible Headings' para mejorar la lectura, son Jupyter Notebooks fáciles pero un poco largos! Abre el Jupyter Notebook clicando en un fichero con extensión .ipynb y sigue las instrucciones escritas allí. Aconsejamos empezar por `Exploration_and_Classification.ipynb`. En el taller de la PyConES22 damos este Jupyter Notebook por sabido y empezamos directamente con `XAI.ipynb`.
 
 
