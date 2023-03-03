@@ -5,6 +5,8 @@
 
 [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/UQ.ipynb) Incertidumbre
 
+Enlace a las diapositivas de la presentación introductoria ["La IA no hereda nuestros sesgos si la enseñamos cómo"](https://docs.google.com/presentation/d/1bp8rJTtZ5aAGeNwwdTdue4vGcs27QvcEeA1VbHPce9c/edit#slide=id.g211627b4636_0_101).
+
 # Exactitud con certidumbre
 
 Medir la calidad de las predicciones de un modelo de aprendizaje supervisado a través de métricas de rendimiento como *accuracy* (o "exactitud" en castellano), *precision*, *recall*, *F1 score*,... no nos da la seguridad de que el modelo esté respondiendo a la pregunta correcta, sobre todo si es un modelo no interpretable por las personas, también llamados modelos 'black box' o caja negra. 
