@@ -1,5 +1,5 @@
 # to create this env with this .yml: conda env create -f environment.yml
-name: pycones22_UQ_XAI
+name: intro_UQ_XAI
 channels:
 - conda-forge
 dependencies:
