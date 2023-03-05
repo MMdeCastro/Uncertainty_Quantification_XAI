@@ -6,7 +6,7 @@ El análisis completo es una serie de 3 Jupyter Notebooks, en este orden:
 + `XAI.ipynb` donde aplicamos varios métodos de explicabilidad o [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence), y
 + `UQ.ipynb` donde aplicamos varios métodos de cuantificación de incertidumbre o [UQ](https://en.wikipedia.org/wiki/Uncertainty_quantification).
 
-Si prefieres solo mirar el contenido sin ejecutarlo, aqui tienes los enlaces a cada uno de los temas:
+Si prefieres solo mirar el contenido sin ejecutarlo, aquí tienes los enlaces a cada uno de los temas:
 
 [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/Exploration_and_Classification.ipynb) Exploración de los datos y selección del modelo de aprendizaje supervisado para la Clasificación
 
