@@ -10,9 +10,9 @@ Si prefieres solo mirar el contenido sin ejecutarlo, aquí tienes los enlaces a 
 
 [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/Exploration_and_Classification.ipynb) Exploración de los datos y selección del modelo de aprendizaje supervisado para la Clasificación
 
-[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/XAI.ipynb) Explicabilidad
+[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/XAI.ipynb) Herramientas de Explicabilidad (XAI)
 
-[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/UQ.ipynb) Incertidumbre
+[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/UQ.ipynb) Herramientas de Cuantificación de Incertidumbre (UQ)
 
 y el enlace a las diapositivas de la presentación introductoria para todos los públicos ["La IA no hereda nuestros sesgos si la enseñamos cómo"](https://docs.google.com/presentation/d/1bp8rJTtZ5aAGeNwwdTdue4vGcs27QvcEeA1VbHPce9c/edit#slide=id.g211627b4636_0_101).
 
@@ -36,11 +36,13 @@ Podemos cerciorarnos de que esto no nos pasa incorporando a nuestro modelo herra
 
 + `conda env create -f environment.yml`
 
+  ⚠️ Crear el entorno por primera vez tardará bastante, de media tarda una hora, porfa, tráelo ya hecho cuando vengas al taller. 
+
 2. Activa el entorno escribiendo en la terminal:
 
 + `conda activate intro_UQ_XAI`
 
-  La primera vez tardará bastante, dependiendo de tu ancho de banda, puede que hasta una hora, porfa, tráelo ya hecho cuando vengas al taller. Cuando acabes con este proyecto, desactiva el entorno escribiendo en la terminal:
+  Cuando acabes con este proyecto, desactiva el entorno escribiendo en la terminal:
 
 + `conda deactivate`
 
