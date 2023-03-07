@@ -38,7 +38,7 @@ Podemos cerciorarnos de que esto no nos pasa incorporando a nuestro modelo herra
 
 2. Activa el entorno escribiendo en la terminal:
 
-+ `conda activate pycones22_UQ_XAI`
++ `conda activate intro_UQ_XAI`
 
   La primera vez tardará bastante, dependiendo de tu ancho de banda, puede que hasta una hora, porfa, tráelo ya hecho cuando vengas al taller. Cuando acabes con este proyecto, desactiva el entorno escribiendo en la terminal:
 
