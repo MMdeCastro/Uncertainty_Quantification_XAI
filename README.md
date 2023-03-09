@@ -32,11 +32,11 @@ Podemos cerciorarnos de que esto no nos pasa incorporando a nuestro modelo herra
 
 0. Clona este repositorio en el ordenador o nube donde vayas a trabajar. Si no tienes el paquete `git` instalado, [aquí](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) explica cómo hacerlo. Para clonar el repositorio, pincha en el botón verde que dice 'Code', copia al portapapeles la dirección htpps, y pégala en una terminal donde vayas a trabajar, escribiendo `git clone`, un espacio, y la dirección htpps de este repositorio, tardará unos segundos en descargarse.  
 
-1. Si no tienes el administrador de paquetes `conda` instalado, puedes simplemente instalar `miniconda` siguiendo las instrucciones para tu sistema operativo [aquí](https://docs.conda.io/en/latest/miniconda.html). Después, abre una terminal (de Bash si estás en Linux o Mac, Anaconda prompt si estás en Windows) y escribe:
+1. Si no tienes el administrador de paquetes `conda` instalado, puedes simplemente instalar `miniconda` siguiendo las instrucciones para tu sistema operativo [aquí](https://docs.conda.io/en/latest/miniconda.html). Al instalar `miniconda` se instala `Python` también, viene incluido. Después, abre una terminal (de Bash si estás en Linux o Mac, Anaconda Prompt si estás en Windows) y escribe:
 
 + `conda env create -f environment.yml`
 
-  ⚠️ Crear el entorno por primera vez tardará bastante, de media tarda una hora, porfa, tráelo ya hecho cuando vengas al taller. 
+  ⚠️ Crear el entorno por primera vez unos 10 minutos pero puede que más, porfa, tráelo ya hecho cuando vengas al taller. 
 
 2. Activa el entorno escribiendo en la terminal:
 
@@ -46,10 +46,14 @@ Podemos cerciorarnos de que esto no nos pasa incorporando a nuestro modelo herra
 
 + `conda deactivate`
 
-3. Con el entorno activo, abre la aplicación para editar y ejecutar el código en Jupyter Notebooks escribiendo en la terminal:
+3. Con el entorno activo, vamos a instalar los paquetes de XAI `LIME` y `SHAP` que es mejor instalarlos via `pip` en lugar de usar `conda`, para ello escribe en la terminal
+
++ `python3 -m pip install lime shap`
+
+4. Abre la aplicación para editar y ejecutar el código en Jupyter Notebooks escribiendo en la terminal:
 
 + `jupyter notebook`
 
-4. Jupyter se abrirá en tu browser. En la barra de herramientas, pincha en 'Nbextensions' y permite 'Collapsible Headings' para mejorar la lectura, son Jupyter Notebooks fáciles pero un poco largos! Abre el Jupyter Notebook clicando en un fichero con extensión .ipynb y sigue las instrucciones escritas allí. Aconsejamos empezar por `Exploration_and_Classification.ipynb`. 
+Jupyter se abrirá en el browser que tengas por defecto (Firefox, Chrome,...). Los Jupyter Notebooks son los ficheros con extensión .ipynb, se abren clicando en ellos. Sigue las instrucciones escritas allí. Aconsejamos empezar por `Exploration_and_Classification.ipynb`. 
 
 <font size="10"> 📝 </font>Este taller se realizó por primera vez en la [PyConES22](https://2022.es.pycon.org/) viernes 30 de Septiembre de 2022 de 15:30h a 17:30h. En el taller de la PyConES22 damos este Jupyter Notebook por sabido y empezamos directamente con `XAI.ipynb`. Todas las charlas de la PyConES 2022 que se mencionan como material complementario en los Jupyter Notebooks pueden encontrarse en [la lista de reprodución del canal de youtube de Python Espana](https://www.youtube.com/@PythonES). 
