@@ -36,7 +36,7 @@ Podemos cerciorarnos de que esto no nos pasa incorporando a nuestro modelo herra
 
 + `conda env create -f environment.yml`
 
-  ⚠️ Crear el entorno por primera vez unos 10 minutos pero puede que más, porfa, tráelo ya hecho cuando vengas al taller. 
+  ⚠️ Crear el entorno por primera vez dura unos 10 minutos pero puede que más, porfa, tráelo ya hecho cuando vengas al taller. 
 
 2. Activa el entorno escribiendo en la terminal:
 
@@ -46,11 +46,11 @@ Podemos cerciorarnos de que esto no nos pasa incorporando a nuestro modelo herra
 
 + `conda deactivate`
 
-3. Con el entorno activo, vamos a instalar los paquetes de XAI `LIME` y `SHAP` que es mejor instalarlos via `pip` en lugar de usar `conda`, para ello escribe en la terminal
+3. Con el entorno activo, vamos a instalar los paquetes de XAI `LIME` y `SHAP` que es mejor instalarlos via `pip` en lugar de usar `conda`, tardarán unos 5 minutos en instalarse, para ello escribe en la terminal
 
 + `python3 -m pip install lime shap`
 
-4. Abre la aplicación para editar y ejecutar el código en Jupyter Notebooks escribiendo en la terminal:
+4. Siempre con el entorno activo, abre la aplicación de Jupyter para editar y ejecutar el código en Jupyter Notebooks escribiendo en la terminal:
 
 + `jupyter notebook`
 
