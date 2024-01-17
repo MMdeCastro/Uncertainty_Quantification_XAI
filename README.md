@@ -1,3 +1,5 @@
+## Más allá de la métrica
+
 Este taller complementa a la mayoría de los cursos introductorios sobre aprendizaje automático (machine learning) supervisado, que a menudo se centran solamente en optimizar métricas de rendimiento. Si no has realizado un curso introductorio sobre aprendizaje automático supervisado, encontrarás un resumen en el Jupyter Notebook llamado `Exploration_and_Classification.ipynb`.
 
 El análisis completo es una serie de 3 Jupyter Notebooks, en este orden:
