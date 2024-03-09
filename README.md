@@ -8,6 +8,8 @@ El análisis completo es una serie de 3 Jupyter Notebooks, en este orden:
 + `XAI.ipynb` donde aplicamos varios métodos de explicabilidad o [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence), y
 + `UQ.ipynb` donde aplicamos varios métodos de cuantificación de incertidumbre o [UQ](https://en.wikipedia.org/wiki/Uncertainty_quantification).
 
+para profundizar en la aplicación de la UQ, ver el cuarto Jupyter Notebook `UQ_multiclass.ipynb` donde se incluye el código para la explicación de este [mini curso de Christoph Molnar](https://mindfulmodeler.substack.com/p/week-1-getting-started-with-conformal).
+
 Si prefieres solo mirar el contenido sin ejecutarlo, aquí tienes los enlaces a cada uno de los temas:
 
 [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/Exploration_and_Classification.ipynb) Exploración de los datos y selección del modelo de aprendizaje supervisado para la Clasificación
@@ -15,6 +17,8 @@ Si prefieres solo mirar el contenido sin ejecutarlo, aquí tienes los enlaces a 
 [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/XAI.ipynb) Herramientas de Explicabilidad (XAI)
 
 [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/UQ.ipynb) Herramientas de Cuantificación de Incertidumbre (UQ)
+
+[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/UQ_multiclass.ipynb) Conformal Predictors (CP) para la UQ en ejemplo multiclase
 
 y el enlace a las diapositivas de las presentaciones introductorias (contienen animaciones, mejor verlas en modo presentación):
 + para todos los públicos ["La IA no hereda nuestros sesgos si le enseñamos cómo"](https://docs.google.com/presentation/d/1bp8rJTtZ5aAGeNwwdTdue4vGcs27QvcEeA1VbHPce9c/edit#slide=id.g211627b4636_0_101) en las II Jornadas de Ciencia y Género del IFIC y la Univ. de Valencia. [Aquí está el vídeo](https://youtu.be/89G74PBnoVc) de la presentación,
