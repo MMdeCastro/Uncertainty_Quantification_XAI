@@ -58,7 +58,7 @@ Podemos cerciorarnos de que esto no nos pasa incorporando a nuestro modelo ya en
 
 + `conda deactivate`
 
-3. Con el entorno activo, vamos a instalar los paquetes de XAI `LIME` y `SHAP` que es mejor instalarlos via `pip` en lugar de usar `conda`, tardarán unos 5 minutos en instalarse, para ello escribe en la terminal
+3. Con el entorno activo, vamos a instalar los paquetes de XAI `LIME` y `SHAP` y el paquete de UQ `MAPIE` que es mejor instalarlos via `pip` en lugar de usar `conda`, tardarán unos pocos minutos en instalarse, para ello escribe en la terminal
 
 + `python3 -m pip install lime shap MAPIE`
 
