@@ -28,7 +28,7 @@ y el enlace a las diapositivas de las presentaciones introductorias (contienen a
 + para Python Granada ["Python para una IA responsable"](https://docs.google.com/presentation/d/1kATBDKVhY-hTg8rL7423UGRW579r2f7Tg4qXFdofCaw/edit?usp=sharing),
 + sobre los [Conformal Predictors](https://docs.google.com/presentation/d/1Q6oxcgmNv0GsmNFA5npAzQGDuy_XolBKStN4KUhP4Gk/edit?usp=sharing) (in English).
 
-Como decíamos, ésta es una serie introductoria y no incluimos explicaciones exhaustivas ni demostraciones matemáticas (hay muchas otras fuentes, ver la lista de materiales en la intro de los Jupyter Notebooks), mejor mencionaremos algunas características intuitivas sobre la explicabiliad y la cuantificación de la incertidumbre y nos enfocaremos en su implementación en Scikit-learn, una de las librerías de [Python](https://es.wikipedia.org/wiki/Python) más utilizadas en aprendizaje automático) y paquetes compatibles.
+Como decíamos, ésta es una serie introductoria y no incluimos explicaciones exhaustivas ni demostraciones matemáticas (hay muchas otras fuentes, ver la lista de materiales en la intro de los Jupyter Notebooks), mejor mencionaremos algunas características intuitivas sobre la explicabiliad y la cuantificación de la incertidumbre y nos enfocaremos en su implementación en Scikit-learn (una de las librerías de [Python](https://es.wikipedia.org/wiki/Python) más utilizadas en aprendizaje automático) y paquetes compatibles.
 
 # Exactitud con certidumbre
 
