@@ -60,7 +60,7 @@ Podemos cerciorarnos de que esto no nos pasa incorporando a nuestro modelo ya en
 
 3. Con el entorno activo, vamos a instalar los paquetes de XAI `LIME` y `SHAP` que es mejor instalarlos via `pip` en lugar de usar `conda`, tardarán unos 5 minutos en instalarse, para ello escribe en la terminal
 
-+ `python3 -m pip install lime shap`
++ `python3 -m pip install lime shap MAPIE`
 
 4. Siempre con el entorno activo, abre la aplicación de Jupyter para editar y ejecutar el código en Jupyter Notebooks escribiendo en la terminal:
 
