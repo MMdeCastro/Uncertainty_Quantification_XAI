@@ -8,7 +8,7 @@ El análisis completo es una serie de 3 Jupyter Notebooks, en este orden:
 + `XAI.ipynb` donde aplicamos varios métodos de explicabilidad o [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence), y
 + `UQ.ipynb` donde aplicamos varios métodos de cuantificación de incertidumbre o [UQ](https://en.wikipedia.org/wiki/Uncertainty_quantification).
 
-para profundizar en la aplicación de la UQ, ver el cuarto Jupyter Notebook `UQ_multiclass.ipynb` donde se incluye el código para la explicación de este [mini curso de Christoph Molnar](https://mindfulmodeler.substack.com/p/week-1-getting-started-with-conformal) y el quinto Jupyter Notebook `UQ_TimeSeriesClassification.ipynb` donde aplicamos UQ a la clasificación de series temporales.
+Para profundizar en la aplicación de la UQ, ver el cuarto Jupyter Notebook `UQ_multiclass.ipynb` donde se incluye el código para la explicación de este [mini curso de Christoph Molnar](https://mindfulmodeler.substack.com/p/week-1-getting-started-with-conformal) y el quinto Jupyter Notebook `UQ_TimeSeriesClassification.ipynb` donde aplicamos UQ a la clasificación de series temporales.
 
 Si prefieres solo mirar el contenido sin ejecutarlo, aquí tienes los enlaces a cada uno de los temas:
 
