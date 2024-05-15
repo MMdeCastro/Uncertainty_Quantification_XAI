@@ -29,7 +29,7 @@ y el enlace a las diapositivas de las presentaciones introductorias (contienen a
 + para Python Granada ["Python para una IA responsable"](https://docs.google.com/presentation/d/1kil2P6pYuKcan1QcvaxNWXoyoEXkJnBWgpt0gZMfejg/edit?usp=sharing),
 + sobre los Conformal Predictors:
   + [Intro general](https://docs.google.com/presentation/d/1Q6oxcgmNv0GsmNFA5npAzQGDuy_XolBKStN4KUhP4Gk/edit?usp=sharing) (in English).
-  + [Intro técnica](https://docs.google.com/presentation/d/1bQYIFyQysQPx79wJq1mltylsH_aeO2AnLYRlHiLq6vo/edit#slide=id.g2dc32e8043a_0_5) (in English).
+  + [Key Concepts of Conformal Prediction](https://docs.google.com/presentation/d/1bQYIFyQysQPx79wJq1mltylsH_aeO2AnLYRlHiLq6vo/edit#slide=id.g2dc32e8043a_0_5) (in English).
 
 Como decíamos, ésta es una serie introductoria y no incluimos explicaciones exhaustivas ni demostraciones matemáticas (hay muchas otras fuentes, ver la lista de materiales en la intro de los Jupyter Notebooks), mejor mencionaremos algunas características intuitivas sobre la explicabiliad y la cuantificación de la incertidumbre y nos enfocaremos en su implementación en Scikit-learn (una de las librerías de [Python](https://es.wikipedia.org/wiki/Python) más utilizadas en aprendizaje automático) y paquetes compatibles.
 
