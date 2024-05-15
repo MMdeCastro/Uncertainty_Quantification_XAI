@@ -27,7 +27,9 @@ y el enlace a las diapositivas de las presentaciones introductorias (contienen a
 + para todos los públicos ["La IA no hereda nuestros sesgos si le enseñamos cómo"](https://docs.google.com/presentation/d/1bp8rJTtZ5aAGeNwwdTdue4vGcs27QvcEeA1VbHPce9c/edit#slide=id.g211627b4636_0_101) en las II Jornadas de Ciencia y Género del IFIC y la Univ. de Valencia. [Aquí está el vídeo](https://youtu.be/89G74PBnoVc) de la presentación,
 + para estudiantes de informática y telecomunicaciones del Google Developer Student Club de la Univ. de Granada ["Herramientas para la explicabilidad y la cuantificación de incertidumbre contra los sesgos del aprendizaje automático"](https://docs.google.com/presentation/d/1p5QVf4JaDDFl7IM6XLclfWbcU0a5a8Il9MTu8-9fB84/edit#slide=id.g20f7f9abf3c_0_101),
 + para Python Granada ["Python para una IA responsable"](https://docs.google.com/presentation/d/1kil2P6pYuKcan1QcvaxNWXoyoEXkJnBWgpt0gZMfejg/edit?usp=sharing),
-+ sobre los [Conformal Predictors](https://docs.google.com/presentation/d/1Q6oxcgmNv0GsmNFA5npAzQGDuy_XolBKStN4KUhP4Gk/edit?usp=sharing) (in English).
++ sobre los Conformal Predictors:
+  + [Intro general](https://docs.google.com/presentation/d/1Q6oxcgmNv0GsmNFA5npAzQGDuy_XolBKStN4KUhP4Gk/edit?usp=sharing) (in English).
+  + [Intro técnica](https://docs.google.com/presentation/d/1bQYIFyQysQPx79wJq1mltylsH_aeO2AnLYRlHiLq6vo/edit#slide=id.g2dc32e8043a_0_5) (in English).
 
 Como decíamos, ésta es una serie introductoria y no incluimos explicaciones exhaustivas ni demostraciones matemáticas (hay muchas otras fuentes, ver la lista de materiales en la intro de los Jupyter Notebooks), mejor mencionaremos algunas características intuitivas sobre la explicabiliad y la cuantificación de la incertidumbre y nos enfocaremos en su implementación en Scikit-learn (una de las librerías de [Python](https://es.wikipedia.org/wiki/Python) más utilizadas en aprendizaje automático) y paquetes compatibles.
 
