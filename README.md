@@ -23,10 +23,11 @@ Si prefieres solo mirar el contenido sin ejecutarlo, aquí tienes los enlaces a 
 [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/UQ_TimeSeriesClassification.ipynb) Conformal Predictors (CP) para la UQ en un ejemplo de clasificación de series temporales
 
 y el enlace a las diapositivas de las presentaciones introductorias (contienen animaciones, mejor verlas en modo presentación):
-+ para estudiantes del Máster en Ciencia de Datos de la Universidad de Granada ["Introducción a la Cuantificación de Incertidumbre en Aprendizaje Automático con Conformal Prediction"](https://docs.google.com/presentation/d/1yFHn4_Byt6_f5arFOdhUWBXOrN7BrYbmEc2gMhJ0RVY/edit?usp=sharing),
-+ para todos los públicos ["La IA no hereda nuestros sesgos si le enseñamos cómo"](https://docs.google.com/presentation/d/1bp8rJTtZ5aAGeNwwdTdue4vGcs27QvcEeA1VbHPce9c/edit#slide=id.g211627b4636_0_101) en las II Jornadas de Ciencia y Género del IFIC y la Univ. de Valencia. [Aquí está el vídeo](https://youtu.be/89G74PBnoVc) de la presentación,
++ DyploFest24 ["Exactitud con Certidumbre"](https://docs.google.com/presentation/d/1f2LiOLh_IQfKqGiJ1X8OIee0wxKJQZiKft5riam9UA8/edit#slide=id.g2de3d8b8587_0_17),
++ para el alumnado del Máster en Ciencia de Datos de la Universidad de Granada ["Introducción a la Cuantificación de Incertidumbre en Aprendizaje Automático con Conformal Prediction"](https://docs.google.com/presentation/d/1yFHn4_Byt6_f5arFOdhUWBXOrN7BrYbmEc2gMhJ0RVY/edit?usp=sharing),
++ II Jornadas de Ciencia y Género del IFIC y la Univ. de Valencia, charla para todos los públicos ["La IA no hereda nuestros sesgos si le enseñamos cómo"](https://docs.google.com/presentation/d/1bp8rJTtZ5aAGeNwwdTdue4vGcs27QvcEeA1VbHPce9c/edit#slide=id.g211627b4636_0_101). [Aquí está el vídeo](https://youtu.be/89G74PBnoVc) de la presentación,
 + para estudiantes de informática y telecomunicaciones del Google Developer Student Club de la Univ. de Granada ["Herramientas para la explicabilidad y la cuantificación de incertidumbre contra los sesgos del aprendizaje automático"](https://docs.google.com/presentation/d/1p5QVf4JaDDFl7IM6XLclfWbcU0a5a8Il9MTu8-9fB84/edit#slide=id.g20f7f9abf3c_0_101),
-+ para Python Granada ["Python para una IA responsable"](https://docs.google.com/presentation/d/1kil2P6pYuKcan1QcvaxNWXoyoEXkJnBWgpt0gZMfejg/edit?usp=sharing),
++ Python Granada ["Python para una IA responsable"](https://docs.google.com/presentation/d/1kil2P6pYuKcan1QcvaxNWXoyoEXkJnBWgpt0gZMfejg/edit?usp=sharing),
 + sobre los Conformal Predictors:
   + [Intro general](https://docs.google.com/presentation/d/1Q6oxcgmNv0GsmNFA5npAzQGDuy_XolBKStN4KUhP4Gk/edit?usp=sharing) (in English).
   + [Key Concepts of Conformal Prediction](https://docs.google.com/presentation/d/1bQYIFyQysQPx79wJq1mltylsH_aeO2AnLYRlHiLq6vo/edit#slide=id.g2dc32e8043a_0_5) (in English).
