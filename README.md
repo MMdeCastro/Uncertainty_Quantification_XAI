@@ -5,10 +5,10 @@ Este taller complementa a la mayoría de los cursos introductorios sobre aprendi
 El análisis completo es una serie de 3 Jupyter Notebooks, en este orden:
 
 + `Exploration_and_Classification.ipynb` donde exploramos y preparamos los datos, probamos varios modelos de aprendizaje automático supervisado para clasificación, explicamos las métricas de rendimiento y el umbral de decisión, y elegimos el modelo que nos da mejor rendimiento,
-+ `XAI.ipynb` donde aplicamos varios métodos de explicabilidad o [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence), y
-+ `UQ.ipynb` donde aplicamos varios métodos de cuantificación de incertidumbre o [UQ](https://en.wikipedia.org/wiki/Uncertainty_quantification).
++ `XAI.ipynb` donde explicamos métodos de explicabilidad o [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence), y
++ `UQ.ipynb` donde explicamos métodos de cuantificación de incertidumbre o [UQ](https://en.wikipedia.org/wiki/Uncertainty_quantification).
 
-Para profundizar en la aplicación de la UQ, ver el cuarto Jupyter Notebook `UQ_multiclass.ipynb` donde se incluye el código para la explicación de este [mini curso de Christoph Molnar](https://mindfulmodeler.substack.com/p/week-1-getting-started-with-conformal) y el quinto Jupyter Notebook `UQ_TimeSeriesClassification.ipynb` donde aplicamos UQ a la clasificación de series temporales.
+Para profundizar en la aplicación de la UQ, ver el cuarto Jupyter Notebook `UQ_multiclass.ipynb` donde se incluye el código para la explicación de este [mini curso de Christoph Molnar](https://mindfulmodeler.substack.com/p/week-1-getting-started-with-conformal).
 
 Si prefieres solo mirar el contenido sin ejecutarlo, aquí tienes los enlaces a cada uno de los temas:
 
@@ -19,8 +19,6 @@ Si prefieres solo mirar el contenido sin ejecutarlo, aquí tienes los enlaces a 
 [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/UQ.ipynb) Herramientas de Cuantificación de Incertidumbre (UQ)
 
 [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/UQ_multiclass.ipynb) Conformal Predictors (CP) para la UQ en ejemplo de clasificación multiclase
-
-[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/UQ_TimeSeriesClassification.ipynb) Conformal Predictors (CP) para la UQ en un ejemplo de clasificación de series temporales
 
 y el enlace a las diapositivas de las presentaciones introductorias (contienen animaciones, mejor verlas en modo presentación):
 + DyploFest24 ["Exactitud con Certidumbre"](https://docs.google.com/presentation/d/1f2LiOLh_IQfKqGiJ1X8OIee0wxKJQZiKft5riam9UA8/edit#slide=id.g2de3d8b8587_0_17),
