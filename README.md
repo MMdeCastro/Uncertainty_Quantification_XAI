@@ -1,6 +1,6 @@
 Próximo taller presencial: [PyConES 2024: Predicción Conforme: el fin de la predicción puntual descalibrada](https://pretalx.com/pycones-2024/talk/HSWECW/) Nos vemos en Vigo!
 
-Enlace a las [slides](https://pretalx.com/pycones-2024/talk/HSWECW/)
+Enlace a las [slides](https://docs.google.com/presentation/d/1F0PyRH1jDbKmwP84EIUieGWZZpYylG3W9zTFrSx9flw/edit#slide=id.g2dde83bee02_0_15).
 
 Aquí abajo están las instrucciones para crear el entorno pero en realidad para este taller sólo hace falta tener Python 3 con Jupyter, Scikit-learn (pip install scikit-learn), MAPIE (pip install MAPIE) y CREPES (pip install crepes) y a las malas también aquí abajo están los enlaces a nbviewer para ver el Jupyter Notebook que usaremos.
 
