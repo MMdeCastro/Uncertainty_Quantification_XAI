@@ -1,5 +1,9 @@
 Próximo taller presencial: [PyConES 2024: Predicción Conforme: el fin de la predicción puntual descalibrada](https://pretalx.com/pycones-2024/talk/HSWECW/) Nos vemos en Vigo!
 
+Enlace a las [slides](https://pretalx.com/pycones-2024/talk/HSWECW/)
+
+Aquí abajo están las instrucciones para crear el entorno pero en realidad para este taller sólo hace falta tener Python 3 con Jupyter, Scikit-learn (pip install scikit-learn), MAPIE (pip install MAPIE) y CREPES (pip install crepes) y a las malas también aquí abajo están los enlaces a nbviewer para ver el Jupyter Notebook que usaremos.
+
 ## Más allá de la métrica
 
 Este taller complementa a la mayoría de los cursos introductorios sobre aprendizaje automático (machine learning) supervisado, que a menudo se centran solamente en optimizar métricas de rendimiento. Si no has realizado un curso introductorio sobre aprendizaje automático supervisado, encontrarás un resumen en el Jupyter Notebook llamado `Exploration_and_Classification.ipynb`.
