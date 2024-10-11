@@ -1,14 +1,8 @@
-Próximo taller presencial: [PyConES 2024: Predicción Conforme: el fin de la predicción puntual descalibrada](https://pretalx.com/pycones-2024/talk/HSWECW/) Nos vemos en Vigo!
-
-Enlace a las [slides](https://docs.google.com/presentation/d/1F0PyRH1jDbKmwP84EIUieGWZZpYylG3W9zTFrSx9flw/edit#slide=id.g2dde83bee02_0_15).
-
-Aquí abajo están las instrucciones para crear el entorno pero en realidad para este taller sólo hace falta tener Python 3 con Jupyter, Scikit-learn (pip install scikit-learn), MAPIE (pip install MAPIE) y CREPES (pip install crepes) y a las malas también aquí abajo están los enlaces a nbviewer para ver el Jupyter Notebook que usaremos.
-
 ## Más allá de la métrica
 
 Este taller complementa a la mayoría de los cursos introductorios sobre aprendizaje automático (machine learning) supervisado, que a menudo se centran solamente en optimizar métricas de rendimiento. Si no has realizado un curso introductorio sobre aprendizaje automático supervisado, encontrarás un resumen en el Jupyter Notebook llamado `Exploration_and_Classification.ipynb`.
 
-El análisis completo es una serie de 3 Jupyter Notebooks, en este orden:
+El análisis completo es una serie de 4 Jupyter Notebooks, en este orden:
 
 + `Exploration_and_Classification.ipynb` donde exploramos y preparamos los datos, probamos varios modelos de aprendizaje automático supervisado para clasificación, explicamos las métricas de rendimiento y el umbral de decisión, y elegimos el modelo que nos da mejor rendimiento,
 + `XAI.ipynb` donde explicamos métodos de explicabilidad o [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence), y
@@ -18,16 +12,16 @@ Para profundizar en la aplicación de la UQ, ver el cuarto Jupyter Notebook `UQ_
 
 Si prefieres solo mirar el contenido sin ejecutarlo, aquí tienes los enlaces a cada uno de los temas:
 
-[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/Exploration_and_Classification.ipynb) Exploración de los datos y selección del modelo de aprendizaje supervisado para la Clasificación
+[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/Exploration_and_Classification.ipynb) Exploración de los datos y selección del modelo de aprendizaje supervisado para la Clasificación.
 
-[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/XAI.ipynb) Herramientas de Explicabilidad (XAI)
+[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/XAI.ipynb) Herramientas de Explicabilidad (XAI).
 
-[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/UQ.ipynb) Herramientas de Cuantificación de Incertidumbre (UQ)
+[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/UQ.ipynb) Herramientas de Cuantificación de Incertidumbre (UQ) y aplicación de la Conformal PRediction para una clasificación binaria.
 
-[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/UQ_multiclass.ipynb) Conformal Predictors (CP) para la UQ en ejemplo de clasificación multiclase
+[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/UQ_multiclass.ipynb) Conformal Predictors (CP) para la UQ en ejemplo de clasificación multiclase.
 
-y el enlace a las diapositivas de las presentaciones introductorias (contienen animaciones, mejor verlas en modo presentación):
-+ PyConES 2024 ["Predicción Conforme: el fin de la predicción puntual descalibrada"](https://pretalx.com/pycones-2024/talk/HSWECW/),
+Aquí el enlace a las diapositivas de las presentaciones introductorias (contienen animaciones, mejor verlas en modo presentación):
++ PyConES 2024 ["Predicción Conforme: el fin de la predicción puntual descalibrada"](https://pretalx.com/pycones-2024/talk/HSWECW/), en la descripción está el enlace a la presentación,
 + CITIC - UGR ["Accuracy with Certainty: beyond the performance metrics"](https://docs.google.com/presentation/d/1pXtkpzjTj94vxgBhRlsuSFIwFkx8v53u8ZP_9lZDyi4/edit?usp=sharing),
 + DyploFest24 ["Exactitud con Certidumbre"](https://docs.google.com/presentation/d/1f2LiOLh_IQfKqGiJ1X8OIee0wxKJQZiKft5riam9UA8/edit#slide=id.g2de3d8b8587_0_17),
 + para el alumnado del Máster en Ciencia de Datos de la Universidad de Granada ["Introducción a la Cuantificación de Incertidumbre en Aprendizaje Automático con Conformal Prediction"](https://docs.google.com/presentation/d/1yFHn4_Byt6_f5arFOdhUWBXOrN7BrYbmEc2gMhJ0RVY/edit?usp=sharing),
