@@ -54,7 +54,7 @@ Al automatizar predicciones, si solamente nos fijamos en las métricas de rendim
 
 + `conda env create -f environment.yml`
 
-  ⚠️ Crear el entorno por primera vez puede tardar unos 10 minutos pero puede que más, porfa, tráelo ya hecho cuando vengas al taller. 
+  ⚠️ Crear el entorno por primera vez puede tardar unos 10 minutos pero puede que más, porfa, tráelo ya hecho cuando vengas al taller. El paquete más pesado es XGboost, si no quieres ejecutar el Jupyter Notebook de la introducción porque quieres directamente ehjecutar los notebooks de XAI y/o UQ, comenta la línea de XGboost y el entorno se creará más rápido. 
 
 2. Activa el entorno escribiendo en la terminal:
 
@@ -64,9 +64,9 @@ Al automatizar predicciones, si solamente nos fijamos en las métricas de rendim
 
 + `conda deactivate`
 
-3. Con el entorno activo, vamos a instalar los paquetes de XAI `LIME` y `SHAP` y el paquete de UQ `MAPIE` que es mejor instalarlos via `pip` en lugar de usar `conda`, tardarán unos pocos minutos en instalarse, para ello escribe en la terminal
+3. Con el entorno activo, vamos a instalar los paquetes de XAI `LIME` y `SHAP` y los paquetes de UQ `MAPIE` y `CREPES` que es mejor instalarlos via `pip` en lugar de usar `conda`, tardarán unos pocos minutos en instalarse, para ello escribe en la terminal
 
-+ `python3 -m pip install lime shap MAPIE`
++ `python3 -m pip install lime shap MAPIE crepes`
 
 4. Siempre con el entorno activo, abre la aplicación de Jupyter para editar y ejecutar el código en Jupyter Notebooks escribiendo en la terminal:
 
