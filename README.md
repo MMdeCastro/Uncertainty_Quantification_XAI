@@ -2,7 +2,7 @@
 
 Este taller complementa a la mayoría de los cursos introductorios sobre aprendizaje automático (machine learning) supervisado, que a menudo se centran solamente en optimizar métricas de rendimiento. Si no has realizado un curso introductorio sobre aprendizaje automático supervisado, encontrarás un resumen en el Jupyter Notebook llamado `Exploration_and_Classification.ipynb`.
 
-El análisis completo es una serie de 4 Jupyter Notebooks, en este orden:
+El análisis completo es una serie de 4 Jupyter Notebooks, que aunque son independientes, mejor trabajarlos en este orden:
 
 + `Exploration_and_Classification.ipynb` donde exploramos y preparamos los datos, probamos varios modelos de aprendizaje automático supervisado para clasificación, explicamos las métricas de rendimiento y el umbral de decisión, y elegimos el modelo que nos da mejor rendimiento,
 + `XAI.ipynb` donde explicamos métodos de explicabilidad o [XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence), y
