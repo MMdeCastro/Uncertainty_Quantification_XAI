@@ -55,6 +55,8 @@ Al automatizar predicciones, si solamente nos fijamos en las métricas de rendim
 
 + `conda env create -f environment.yml`
 
+  ⚠️ Para personas usuarias de Windows, ver la info en el README.md de este repositorio: https://github.com/pauladanielafarias/jupyter_contrib_nbextensions.
+  
   ⚠️ Crear el entorno por primera vez puede tardar unos 10 minutos pero puede que más, porfa, tráelo ya hecho cuando vengas al taller. El paquete más pesado es XGboost, si no quieres ejecutar el Jupyter Notebook de la introducción porque quieres directamente ehjecutar los notebooks de XAI y/o UQ, comenta la línea de XGboost y el entorno se creará más rápido. 
 
 2. Activa el entorno escribiendo en la terminal:
