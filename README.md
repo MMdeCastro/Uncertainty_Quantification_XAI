@@ -74,7 +74,7 @@ Siempre es recomendable crear un entorno para evitar incompatibilidad de version
 
 + Por último, activé el entorno escribiendo y ejecutando:
 
-`python3 -m venv intro_trustAI_venv`
+`source .venv/intro_trustAI_venv/bin/activate`
 
 + Una vez activado el entorno, instalé el paquete `pip` para instalar el resto de paquetes que vamos a utilizar en el taller, así que escribí y ejecuté:
 
