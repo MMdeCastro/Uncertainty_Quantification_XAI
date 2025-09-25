@@ -7,7 +7,6 @@ scikit-learn
 seaborn
 emoji
 catboost
-lightgbm
 xgboost
 shap
 lime
