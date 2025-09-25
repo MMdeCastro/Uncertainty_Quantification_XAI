@@ -1,0 +1,17 @@
+notebook
+matplotlib
+matplotlib-inline
+numpy
+pandas
+scikit-learn
+seaborn
+emoji
+catboost
+lightgbm
+xgboost
+shap
+lime
+dice-ml
+MAPIE
+crepes
+
