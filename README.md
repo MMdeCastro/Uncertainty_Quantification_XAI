@@ -48,33 +48,54 @@ Al automatizar predicciones, si solamente nos fijamos en las métricas de rendim
 <font size="10"> 👍🤓 </font>
 
 ## Instrucciones
+Teniendo Python 3 instalado, hay que seguir estas instrucciones:
 
-0. Clona este repositorio en el ordenador o nube donde vayas a trabajar. Si no tienes el paquete `git` instalado, [aquí](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) explica cómo hacerlo. Para clonar el repositorio, pincha en el botón verde que dice 'Code', copia al portapapeles la dirección htpps, y pégala en una terminal donde vayas a trabajar, escribiendo `git clone`, un espacio, y la dirección htpps de este repositorio, tardará unos segundos en descargarse.  
+0. Clonar el repositorio del taller con el paquete `git`
 
-1. Si no tienes el administrador de paquetes `conda` instalado, puedes simplemente instalar `miniconda` siguiendo las instrucciones para tu sistema operativo [aquí](https://docs.conda.io/en/latest/miniconda.html). Al instalar `miniconda` se instala `Python` también, viene incluido. Después, abre una terminal (de Bash si estás en Linux o Mac, Anaconda Prompt si estás en Windows) y escribe:
+Para poder descargar los programas, "scripts", o “notebooks” donde se encuenta el código de este taller (tienen extensión .ipynb porque son Jupyter Notebooks) hay que clonar este repositorio en el ordenador o nube donde vayas a trabajar y para ello necesitamos instalar el paquete de control de versiones `git`, [aquí](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) explica cómo hacerlo si no estuviera ya instalado. Una vez instalado `git`, pincha en el botón verde con la palabra "Code" que encontrarás en esta página arriba a la derecha, copia al portapapeles la dirección https, abre una Terminal, navega a la carpeta donde quieras trabajar y pégala en la escribiendo antes `git clone`, un espacio, y la dirección https de este repositorio que has copiado en el poratapapeles, es decir, hay que escribir y ejecutar:
 
-+ `conda env create -f environment.yml`
+`git clone https://github.com/MMdeCastro/Uncertainty_Quantification_XAI.git`  
 
-  ⚠️ Para personas usuarias de Windows, ver la info en el README.md de este repositorio: https://github.com/pauladanielafarias/jupyter_contrib_nbextensions.
-  
-  ⚠️ Crear el entorno por primera vez puede tardar unos 10 minutos pero puede que más, porfa, tráelo ya hecho cuando vengas al taller. El paquete más pesado es XGboost, si no quieres ejecutar el Jupyter Notebook de la introducción porque quieres directamente ehjecutar los notebooks de XAI y/o UQ, comenta la línea de XGboost y el entorno se creará más rápido. 
+1. Crear entorno con el paquete `venv` 
 
-2. Activa el entorno escribiendo en la terminal:
+Siempre es recomendable crear un entorno para evitar incompatibilidad de versiones. Abrí una Terminal y al iniciar estaba en mi carpeta de usuaria en home y he seguido los pasos indicados en la documentación de Python https://docs.python.org/es/3/tutorial/venv.html (yo seguí las instrucciones para mi sistema operativo Ubuntu 24.04 con Python 3.12 pero ahí se indican las instrucciones para otros sistemas operativos):
 
-+ `conda activate intro_UQ_XAI`
++ Primero instalé el paquete `venv` escribí y ejecuté en la Terminal los comandos:
 
-  Cuando acabes con este proyecto, desactiva el entorno escribiendo en la terminal:
+`sudo apt install python3-venv`
 
-+ `conda deactivate`
++ Después con `mkdir` creé una carpeta para guardar los entornos, he elegido ocultarla, por eso lleva un punto delante del nombre y he elegido colocarla aquí mismo donde estoy, en mi home, así que escribí y ejecuté:
 
-3. Con el entorno activo, vamos a instalar los paquetes de XAI `LIME` y `SHAP` y los paquetes de UQ `MAPIE` y `CREPES` que es mejor instalarlos via `pip` en lugar de usar `conda`, tardarán unos pocos minutos en instalarse, para ello escribe en la terminal
+`mkdir .venv`
 
-+ `python3 -m pip install lime shap MAPIE crepes`
++ Luego creé el entorno de `venv` llamado "intro_trustAI_venv" e indiqué que lo quería alojar en la carpeta `.venv`que acababa de crear, así que  escribí y ejecuté:
 
-4. Siempre con el entorno activo, abre la aplicación de Jupyter para editar y ejecutar el código en Jupyter Notebooks escribiendo en la terminal:
+`python3 -m venv .venv/intro_trustAI_env`
 
-+ `jupyter notebook`
++ Por último, activé el entorno escribiendo y ejecutando:
 
-Jupyter se abrirá en el browser que tengas por defecto (Firefox, Chrome,...). Los Jupyter Notebooks son los ficheros con extensión .ipynb, se abren clicando en ellos. Sigue las instrucciones escritas allí. Aconsejamos empezar por `Exploration_and_Classification.ipynb`. 
+`python3 -m venv intro_trustAI_venv`
 
-<font size="10"> 📝 </font>Este taller se realizó por primera vez en la [PyConES22](https://2022.es.pycon.org/) viernes 30 de Septiembre de 2022 de 15:30h a 17:30h. En el taller de la PyConES22 damos este Jupyter Notebook por sabido y empezamos directamente con `XAI.ipynb`. Todas las charlas de la PyConES 2022 que se mencionan como material complementario en los Jupyter Notebooks pueden encontrarse en [la lista de reprodución del canal de youtube de Python Espana](https://www.youtube.com/@PythonES). 
++ Una vez activado el entorno, instalé el paquete `pip` para instalar el resto de paquetes que vamos a utilizar en el taller, así que escribí y ejecuté:
+
+`sudo apt install python3-pip`
+
+2. Instalar paquetes dentro del entorno
+   
++ Con el entorno activo, instalé los paquetes necesarios para el taller navegando a la carpeta donde cloné el repositorio de GitHub (ver instrucciones en esta página más arriba) y escribiendo y ejecutando:
+
+`pip install -r requirements.txt`
+
+3. Abrir y ejecutar el código del taller
+   
++ Para ver el código de los Jupyter Notebooks, escribí y ejecuté:
+
+`Jupyter Notebook`
+
+  y se abre un gestor de archivos en el navegador web que tengas por defecto (el mío es Chrome). Se recomienza comenzar por el Jupyter Notebook llamando “Exploration_and_Classification.ipnyb” que explica cómo usar Jupyter Notebooks.
+
++ Cuando termine, saldré del entorno simplemente escribiendo y ejecutando
+
+`deactivate`
+
+Nota: Muchos de los vídeos mencionados en los Jupyter Notebooks son de la PyConES22, donde se impartió este taller por primera vez, y pueden encontrarse en [la lista de reprodución del canal de youtube de Python Espana](https://www.youtube.com/@PythonES). 
