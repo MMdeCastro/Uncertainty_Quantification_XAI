@@ -52,13 +52,13 @@ Teniendo Python 3 instalado, hay que seguir estas instrucciones:
 
 0. Clonar el repositorio del taller con el paquete `git`
 
-Para poder descargar los programas, "scripts", o “notebooks” donde se encuenta el código de este taller (tienen extensión .ipynb porque son Jupyter Notebooks) hay que clonar este repositorio en el ordenador o nube donde vayas a trabajar y para ello necesitamos instalar el paquete de control de versiones `git`, [aquí](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) explica cómo hacerlo si no estuviera ya instalado. Una vez instalado `git`, pincha en el botón verde con la palabra "Code" que encontrarás en esta página arriba a la derecha, copia al portapapeles la dirección https, abre una Terminal, navega a la carpeta donde quieras trabajar y pégala en la escribiendo antes `git clone`, un espacio, y la dirección https de este repositorio que has copiado en el poratapapeles, es decir, hay que escribir y ejecutar:
+Para poder descargar los programas, "scripts", o “notebooks” donde se encuenta el código de este taller (tienen extensión .ipynb porque son Jupyter Notebooks) hay que clonar este repositorio en el ordenador o nube donde vayas a trabajar y para ello necesitamos instalar el paquete de control de versiones `git`, [aquí](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) explica cómo hacerlo si no estuviera ya instalado. Una vez instalado `git`, pincha en el botón verde con la palabra "Code" que encontrarás en esta página arriba a la derecha, copia al portapapeles la dirección https, abre una Terminal, navega a la carpeta donde quieras trabajar y péga la dirección copiada en el portapapeles en la Terminal escribiendo antes `git clone`, un espacio, y después dichs dirección https, es decir, hay que escribir y ejecutar:
 
 `git clone https://github.com/MMdeCastro/Uncertainty_Quantification_XAI.git`  
 
 1. Crear entorno con el paquete `venv` 
 
-Siempre es recomendable crear un entorno para evitar incompatibilidad de versiones. Abrí una Terminal y al iniciar estaba en mi carpeta de usuaria en home y he seguido los pasos indicados en la documentación de Python https://docs.python.org/es/3/tutorial/venv.html (yo seguí las instrucciones para mi sistema operativo Ubuntu 24.04 con Python 3.12 pero ahí se indican las instrucciones para otros sistemas operativos):
+Siempre es recomendable crear un entorno para evitar incompatibilidad de versiones. Abrí una Terminal nueva y al iniciar estaba en mi carpeta de usuaria en home y he seguido los pasos indicados en la documentación de Python https://docs.python.org/es/3/tutorial/venv.html (yo seguí las instrucciones para mi sistema operativo Ubuntu 24.04 con Python 3.12 pero ahí se indican las instrucciones para otros sistemas operativos):
 
 + Primero instalé el paquete `venv` escribí y ejecuté en la Terminal los comandos:
 
