@@ -98,4 +98,11 @@ Siempre es recomendable crear un entorno para evitar incompatibilidad de version
 
 `deactivate`
 
++ La siguiente vez que vuelva a trabajar con el código de este taller sólo tendré que activar el entorno escribiendo y ejecutando esto en una terminal
+
+`source .venv/intro_trustAI_venv/bin/activate`
+
+y no tendré que volver a instalar nada.
+
+
 Nota: Muchos de los vídeos mencionados en los Jupyter Notebooks son de la PyConES22, donde se impartió este taller por primera vez, y pueden encontrarse en [la lista de reprodución del canal de youtube de Python Espana](https://www.youtube.com/@PythonES). 
