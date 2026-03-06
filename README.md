@@ -21,6 +21,7 @@ Si prefieres solo mirar el contenido sin ejecutarlo, aquí tienes los enlaces a 
 [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/UQ_multiclass.ipynb) Conformal Predictors (CP) para la UQ en ejemplo de clasificación multiclase.
 
 Aquí el enlace a las diapositivas de las presentaciones introductorias (contienen animaciones, mejor verlas en modo presentación):
++ Cuarto Real memorial Mariano Martín García ["La Inteligencia Artificial y sus sesgos"](https://docs.google.com/presentation/d/13o2Y8BrKGZR7PKA5Ia4UPwE87jRJ6Dxaqk3QCPXkWpU/edit?slide=id.p#slide=id.p).
 + Python Asturias ["Python para una IA Confiable"](https://docs.google.com/presentation/d/1FCUoBORSBP7cE0LYmVVQr6daqhCQ_ZJ5CPFltuPZlsQ/edit#slide=id.g2988a3002ed_0_0), y aquí está [el vídeo](https://youtu.be/sPCQVVFBuQc?si=jh3lhjFl9ZEb0fu3).
 + PyConES 2024 ["Predicción Conforme: el fin de la predicción puntual descalibrada"](https://pretalx.com/pycones-2024/talk/HSWECW/), en la descripción está el enlace a la presentación,
 + CITIC - UGR ["Accuracy with Certainty: beyond the performance metrics"](https://docs.google.com/presentation/d/1pXtkpzjTj94vxgBhRlsuSFIwFkx8v53u8ZP_9lZDyi4/edit?usp=sharing),
