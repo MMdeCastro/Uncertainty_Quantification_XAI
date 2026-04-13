@@ -21,10 +21,11 @@ Si prefieres solo mirar el contenido sin ejecutarlo, aquí tienes los enlaces a 
 [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/UQ_multiclass.ipynb) Conformal Predictors (CP) para la UQ en ejemplo de clasificación multiclase.
 
 Aquí el enlace a las diapositivas de las presentaciones introductorias (contienen animaciones, mejor verlas en modo presentación):
-+ Cuarto Real memorial Mariano Martín García ["La Inteligencia Artificial y sus sesgos"](https://docs.google.com/presentation/d/13o2Y8BrKGZR7PKA5Ia4UPwE87jRJ6Dxaqk3QCPXkWpU/edit?slide=id.p#slide=id.p).
-+ Python Asturias ["Python para una IA Confiable"](https://docs.google.com/presentation/d/1FCUoBORSBP7cE0LYmVVQr6daqhCQ_ZJ5CPFltuPZlsQ/edit#slide=id.g2988a3002ed_0_0), y aquí está [el vídeo](https://youtu.be/sPCQVVFBuQc?si=jh3lhjFl9ZEb0fu3).
++ Para el público general en El Lokal de Dílar 2026 ["Mitos de la Inteligencia Artificial"](https://docs.google.com/presentation/d/1wxxIG-Qk8NMUZ4b1dMkeKJdRpqYKQpNCUqdx1WxDzdA/edit?slide=id.p#slide=id.p).
++ Para el público general en Cuarto Real memorial Mariano Martín García 2026 ["La Inteligencia Artificial y sus sesgos"](https://docs.google.com/presentation/d/13o2Y8BrKGZR7PKA5Ia4UPwE87jRJ6Dxaqk3QCPXkWpU/edit?slide=id.p#slide=id.p).
++ Python Asturias 2025 ["Python para una IA Confiable"](https://docs.google.com/presentation/d/1FCUoBORSBP7cE0LYmVVQr6daqhCQ_ZJ5CPFltuPZlsQ/edit#slide=id.g2988a3002ed_0_0), y aquí está [el vídeo](https://youtu.be/sPCQVVFBuQc?si=jh3lhjFl9ZEb0fu3).
 + PyConES 2024 ["Predicción Conforme: el fin de la predicción puntual descalibrada"](https://pretalx.com/pycones-2024/talk/HSWECW/), en la descripción está el enlace a la presentación,
-+ CITIC - UGR ["Accuracy with Certainty: beyond the performance metrics"](https://docs.google.com/presentation/d/1pXtkpzjTj94vxgBhRlsuSFIwFkx8v53u8ZP_9lZDyi4/edit?usp=sharing),
++ CITIC - UGR 2024 ["Accuracy with Certainty: beyond the performance metrics"](https://docs.google.com/presentation/d/1pXtkpzjTj94vxgBhRlsuSFIwFkx8v53u8ZP_9lZDyi4/edit?usp=sharing),
 + DyploFest24 ["Exactitud con Certidumbre"](https://docs.google.com/presentation/d/1f2LiOLh_IQfKqGiJ1X8OIee0wxKJQZiKft5riam9UA8/edit#slide=id.g2de3d8b8587_0_17),
 + para el alumnado del Máster en Ciencia de Datos de la Universidad de Granada ["Introducción a la Cuantificación de Incertidumbre en Aprendizaje Automático con Conformal Prediction"](https://docs.google.com/presentation/d/1yFHn4_Byt6_f5arFOdhUWBXOrN7BrYbmEc2gMhJ0RVY/edit?usp=sharing),
 + II Jornadas de Ciencia y Género del IFIC y la Univ. de Valencia, charla para todos los públicos ["La IA no hereda nuestros sesgos si le enseñamos cómo"](https://docs.google.com/presentation/d/1bp8rJTtZ5aAGeNwwdTdue4vGcs27QvcEeA1VbHPce9c/edit#slide=id.g211627b4636_0_101). [Aquí está el vídeo](https://youtu.be/89G74PBnoVc) de la presentación,
