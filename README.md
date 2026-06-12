@@ -21,7 +21,7 @@ Si prefieres solo mirar el contenido sin ejecutarlo, aquí tienes los enlaces a 
 [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/UQ_multiclass.ipynb) Conformal Predictors (CP) para la UQ en ejemplo de clasificación multiclase.
 
 Aquí el enlace a las diapositivas de las presentaciones introductorias (contienen animaciones, mejor verlas en modo presentación):
-+ Para el alumnado de 1º de Bachillerato de IES Alhambra 2026 ["Cómo funciona una Inteligencia Artificial"](https://docs.google.com/presentation/d/1jtgQiCinHRkieB8aeL-9IXKVLvjnw_-SjAhIG1VNhSw/edit?slide=id.g2117c7a9bb7_0_42#slide=id.g2117c7a9bb7_0_42).
++ Para el alumnado de 1º de Bachillerato de IES Alhambra 2026 ["Cómo funciona una Inteligencia Artificial"](https://docs.google.com/presentation/d/1jtgQiCinHRkieB8aeL-9IXKVLvjnw_-SjAhIG1VNhSw/edit?slide=id.p#slide=id.p).
 + Para el público general en El Lokal de Dílar 2026 ["Mitos de la Inteligencia Artificial"](https://docs.google.com/presentation/d/1wxxIG-Qk8NMUZ4b1dMkeKJdRpqYKQpNCUqdx1WxDzdA/edit?slide=id.p#slide=id.p).
 + Para el público general en Cuarto Real memorial Mariano Martín García 2026 ["La Inteligencia Artificial y sus sesgos"](https://docs.google.com/presentation/d/13o2Y8BrKGZR7PKA5Ia4UPwE87jRJ6Dxaqk3QCPXkWpU/edit?slide=id.p#slide=id.p).
 + Python Asturias 2025 ["Python para una IA Confiable"](https://docs.google.com/presentation/d/1FCUoBORSBP7cE0LYmVVQr6daqhCQ_ZJ5CPFltuPZlsQ/edit#slide=id.g2988a3002ed_0_0), y aquí está [el vídeo](https://youtu.be/sPCQVVFBuQc?si=jh3lhjFl9ZEb0fu3).
