@@ -21,6 +21,7 @@ Si prefieres solo mirar el contenido sin ejecutarlo, aquí tienes los enlaces a 
 [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMdeCastro/Uncertainty_Quantification_XAI/blob/main/UQ_multiclass.ipynb) Conformal Predictors (CP) para la UQ en ejemplo de clasificación multiclase.
 
 Aquí el enlace a las diapositivas de las presentaciones introductorias (contienen animaciones, mejor verlas en modo presentación):
++ Para la I Escuela Nacional Matemática en Andalucía (ENMA 2026): ["Herramientas matemáticas para una IA Confiable"](https://docs.google.com/presentation/d/1buapyKScloSlYre0_pgXXHrw4vAiTcOXrBOMJmJ3mqE/edit?slide=id.p#slide=id.p). 
 + Para el alumnado de 1º de Bachillerato de IES Alhambra 2026 ["Cómo funciona una Inteligencia Artificial"](https://docs.google.com/presentation/d/1jtgQiCinHRkieB8aeL-9IXKVLvjnw_-SjAhIG1VNhSw/edit?slide=id.p#slide=id.p).
 + Para el público general en El Lokal de Dílar 2026 ["Mitos de la Inteligencia Artificial"](https://docs.google.com/presentation/d/1wxxIG-Qk8NMUZ4b1dMkeKJdRpqYKQpNCUqdx1WxDzdA/edit?slide=id.p#slide=id.p).
 + Para el público general en Cuarto Real memorial Mariano Martín García 2026 ["La Inteligencia Artificial y sus sesgos"](https://docs.google.com/presentation/d/13o2Y8BrKGZR7PKA5Ia4UPwE87jRJ6Dxaqk3QCPXkWpU/edit?slide=id.p#slide=id.p).
